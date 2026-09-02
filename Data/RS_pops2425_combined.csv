@@ -72,7 +72,7 @@ Franklin,FRAN,individuals,14/06/2025,6,14,2025,165,-76.17738,168.394475,7328.11,
 Franklin,FRAN,individuals,30/06/2025,6,30,2025,181,-76.17738,168.394475,3998.01,471.1766285,SAR,
 Franklin,FRAN,individuals,22/07/2025,7,22,2025,203,-76.17738,168.394475,4593.96,550.0190665,SAR,
 Franklin,FRAN,individuals,6/08/2025,8,6,2025,218,-76.17738,168.394475,4363.31,507.3998745,SAR,
-Franklin,FRAN,individuals,24/08/2025,8,24,2025,236,-76.17738,168.394475,7130.79,655.5306371,SAR,
+Franklin,FRAN,individuals,24/08/2025,8,24,2025,236,-76.17738,168.394475,,,SAR,birds too dispersed to quantify
 Franklin,FRAN,individuals,23/04/2024,4,23,2024,114,-76.17710934,168.3951361,749.77,87.71469135,SAR,
 Franklin,FRAN,individuals,29/04/2024,4,29,2024,120,-76.17726909,168.3912272,5890.30,658.6013321,SAR,
 Franklin,FRAN,individuals,2/05/2024,5,2,2024,123,-76.17726909,168.3912272,14988.76,1770.321442,SAR,
@@ -129,16 +129,17 @@ Roget,ROGE,breeding pairs,18/07/2025,7,18,2025,199.33,-71.98,170.61,7252.01,1095
 Roget,ROGE,breeding pairs,4/07/2024,7,4,2024,185,-71.98,170.6,5261.45,938.59,SAR-bp,
 Washington,WASH,breeding pairs,18/07/2025,7,18,2025,199.33,-74.65,165.39,11367.90,1819.17,SAR-bp,
 Washington,WASH,breeding pairs,9/07/2024,7,9,2024,190,-74.65,165.39,10341.24,1897.35,SAR-bp,
-Beaufort,BEAU,abundance index,NA,NA,NA,2024,NA,-76.94,167.02,293.27,123.6203679,VHR-bayes,no VHR image acquired in 2024
+Beaufort,BEAU,abundance index,NA,NA,NA,2024,276,-76.94,167.02,293.27,123.6203679,VHR-bayes,"no VHR image acquired in 2024, doy taken from 2025"
 Beaufort,BEAU,abundance index,3/10/2025,10,3,2025,276,-76.94,167.02,273.90,113.6442289,VHR-bayes,
 Colbeck,COLB,abundance index,18/10/2024,10,18,2024,292,-77.135,-157.715,23821.74,6363.676973,VHR-bayes,
 Colbeck,COLB,abundance index,29/09/2025,9,29,2025,272,-77.135,-157.715,23618.61,6739.474904,VHR-bayes,
 Coulman,COUL,abundance index,25/09/2025,9,25,2025,268,-73.35,169.61,12409.81,2617.732166,VHR-bayes,combined
 Coulman,COUL,abundance index,25/09/2025,9,25,2025,268,-73.35,169.61,8850.12,2638.145196,VHR-bayes,iceberg
 Coulman,COUL,abundance index,25/09/2025,9,25,2025,268,-73.35,169.61,10089.04,2369.123835,VHR-bayes,colony
-Crozier,CROZ,abundance index,NA,NA,NA,2024,NA,-77.46,169.32,1332.22,232.3530278,VHR-bayes,no VHR image acquired in 2024
+Coulman,COUL,abundance index,12/10/2024,10,12,2024,286,-73.3483,169.6242,12045.81618,2349.10578,VHR-bayes,
+Crozier,CROZ,abundance index,NA,NA,NA,2024,283,-77.46,169.32,1332.22,232.3530278,VHR-bayes,"no VHR image acquired in 2024, doy taken from 2025"
 Crozier,CROZ,abundance index,10/10/2025,10,10,2025,283,-77.46,169.32,1715.35,330.4791227,VHR-bayes,
-Franklin,FRAN,abundance index,NA,NA,NA,2024,NA,-76.18,168.43,3172.53,836.9516397,VHR-bayes,no VHR image acquired in 2024
+Franklin,FRAN,abundance index,NA,NA,NA,2024,297,-76.18,168.43,3172.53,836.9516397,VHR-bayes,"no VHR image acquired in 2024, doy taken from 2025"
 Franklin,FRAN,abundance index,24/10/2025,10,24,2025,297,-76.18,168.43,2998.27,847.338343,VHR-bayes,
 Roget,ROGE,abundance index,22/10/2025,10,22,2025,295,-71.99,170.59,4049.60,979.095884,VHR-bayes,
 Roget,ROGE,abundance index,11/10/2024,10,11,2024,285,-71.99,170.59,4382.11,814.9177556,VHR-bayes,
